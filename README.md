@@ -51,10 +51,10 @@ A green pen cap was used as a stylus for the testing.
 
 ### RESULTS
 Given below are the videos, showing the final codes in action.
-For adjustable stylus:
-https://drive.google.com/file/d/1IpHWfHIVJzGFdHSEiqWWKS-3U83H5qr5/view?usp=drivesdk
-For specific blue stylus:
-https://drive.google.com/file/d/1IPB67z3yZa_58k7tfrZ1gJ4kZ0WrU7yC/view?usp=sharing
+* For adjustable stylus:
+  https://drive.google.com/file/d/1IpHWfHIVJzGFdHSEiqWWKS-3U83H5qr5/view?usp=drivesdk
+* For specific blue stylus:
+  https://drive.google.com/file/d/1IPB67z3yZa_58k7tfrZ1gJ4kZ0WrU7yC/view?usp=sharing
 
 ---
 
